@@ -5,7 +5,7 @@ A responsive and elegant landing page for a perfume brand. Built using HTML, CSS
 
 ## Features
 - Fully responsive layout (desktop & mobile)  
-- Smooth scrolling and basic animations  
+- Smooth and basic animations  
 - Modern and minimal design  
 
 ## Tech Stack
