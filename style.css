@@ -262,6 +262,7 @@ nav {
 
   .nav__links a {
     font-size: 0.9rem;
+    color: black;
   }
 
   .nav__links .logo {
